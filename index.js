@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelector('#btn2').style.top = '5%';
   document.querySelector('#btn2').style.left = '40%';
   document.querySelector('#btn2').style.borderRadius = '10px';
-  //functionality
+  //function
   let dark = document.querySelector('#btn1');
   let light = document.querySelector('#btn2');
   let body = document.querySelector('body');
